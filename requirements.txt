@@ -1,1 +1,5 @@
 kaggle
+os
+opencv-python
+matplotlib
+csv
