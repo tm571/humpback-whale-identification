@@ -3,7 +3,7 @@ import cv2
 import math
 from matplotlib import pyplot as plt
 
-dir_path = '../whale-categorization-playground/test_data'
+dir_path = 'data/test_data'
 max_num = 10
 
 num_files = len(os.listdir(dir_path))

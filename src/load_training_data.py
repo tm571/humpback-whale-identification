@@ -2,7 +2,7 @@ import csv
 
 whales = []
 
-with open("../whale-categorization-playground/train.csv", "r") as data:
+with open("data/train.csv", "r") as data:
     reader = csv.reader(data)
 
     for row in reader:
